@@ -12,6 +12,7 @@ package StudentList;
 public class Student {
 
     private String name;
+    String prog_name;
 
     /**
      * @return the name
